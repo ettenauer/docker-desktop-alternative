@@ -10,7 +10,7 @@
 ### Links
 - https://www.redhat.com/sysadmin/podman-windows-wsl2
 - https://www.how2shout.com/linux/how-to-install-podman-on-ubuntu-20-04-wsl2/
-## Host-IP to connect
+## Host-IP - Connect to Containers
 - check your ip with `sh -c "hostname -I"`
 ## Localhost bridge
 - https://gist.github.com/xmeng1/aae4b223e9ccc089911ee764928f5486
